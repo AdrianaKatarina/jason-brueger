@@ -1,7 +1,9 @@
 # Jason Brueger
 
 <div align="center">
-  <img width="250" src="https://github.com/AdrianaKatarina/jason-brueger/assets/122534293/306d3bdb-97ba-4af0-a5f1-9f22569be0dc"/>
+  <a href="https://jason-brueger-project.vercel.app/">
+    <img width="250" src="https://github.com/AdrianaKatarina/jason-brueger/assets/122534293/306d3bdb-97ba-4af0-a5f1-9f22569be0dc"/>
+  </a>
 </div>
 <br>
 
@@ -38,6 +40,14 @@
   </a>  
 </div>  
 <br>
+
+Para ter [acesso](https://jason-brueger-project.vercel.app/) será necessário realizar o login em um dos email e senha disponibilizados abaixo:
+
+Cargo | Email | Senha 
+:--- | :--:  | :--- 
+`Admin` | admin@teste.com | 123456 
+`Atendente` | atendente@teste.com | 123456
+`Cozinha` | cozinha@teste.com | 123456
 
 # Índice
 
